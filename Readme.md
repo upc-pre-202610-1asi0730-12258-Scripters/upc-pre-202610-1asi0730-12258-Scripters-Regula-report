@@ -48,5 +48,14 @@
 
 ## Tabla de contenidos
 
-- [1.1. Startup Profile] (#11-startup-profile)
-    - [1.1.1.  Descripción de la Startup] (#12-startup-description)
+- [1.1. Startup Profile](#11-startup-profile).
+    - [1.1.1. Descripción de la Startup](#12-startup-description).
+    - [1.1.2. Perfiles de integrantes del equipo](#12-startup-description).
+- [1.2. Solution Profile](#11-startup-profile).
+    - [1.2.1. Antecedentes y problemática](#12-startup-description).
+    - [1.2.2. Lean UX process](#12-startup-description).
+       - [1.2.2.1 Lean UX Problem Statements](#12-startup-description).
+       - [1.2.2.2 Lean UX Assumptions](#tabla-de-contenidos)
+       - [1.2.2.3 Lean UX Hypotheses Statements](#tabla-de-contenidos)
+       - [1.2.2.4 Lean UX Canvas](#proyect-report-collaborations-insights)
+- [1.3. Segmentos Objetivo](#11-startup-profile).    
