@@ -16,11 +16,9 @@
 
 **Profesor:** Velasquez Nuñez, Angel Augusto
 
-<<<<<<< HEAD
 ### Informe de trabajo final
-=======
+
 ### Informe de trabajo final (Avance 1)
->>>>>>> 1.1/startup-profile
 
 **Nombre del Startup:** Scripters
 
@@ -181,8 +179,4 @@
 [Video About the Team]().
 
 ## Bibliografía
-<<<<<<< HEAD
 ## Anexos
-=======
-## Anexos
->>>>>>> 1.1/startup-profile
